@@ -6,7 +6,7 @@ function App() {
     <>
       <header>
         <h1>Portfolio</h1>
-        <img src="" alt="Me?"/>
+        <img src="" alt="Me?" />
         <div>
           Bio
         </div>
@@ -17,7 +17,7 @@ function App() {
       <main>
         <section>
           <h2>Project Name</h2>
-          <img src="" alt="there's some sort of img here. Project-related"/>
+          <img src="" alt="there's some sort of img here. Project-related" />
           <p>A brief description of what I worked on, and what it does</p>
           <div>
             <p>Deployment</p>
@@ -25,16 +25,40 @@ function App() {
           </div>
         </section>
         <section>
-
+          <h2>Project Name 2</h2>
+          <img src="" alt="there's some sort of img here. Project-related" />
+          <p>A brief description of what I worked on, and what it does</p>
+          <div>
+            <p>Deployment</p>
+            <p>GitHub</p>
+          </div>
         </section>
         <section>
-
+          <h2>Project Name 3</h2>
+          <img src="" alt="there's some sort of img here. Project-related" />
+          <p>A brief description of what I worked on, and what it does</p>
+          <div>
+            <p>Deployment</p>
+            <p>GitHub</p>
+          </div>
         </section>
         <section>
-
+          <h2>Project Name 4</h2>
+          <img src="" alt="there's some sort of img here. Project-related" />
+          <p>A brief description of what I worked on, and what it does</p>
+          <div>
+            <p>Deployment</p>
+            <p>GitHub</p>
+          </div>
         </section>
         <section>
-
+          <h2>Project Name 5</h2>
+          <img src="" alt="there's some sort of img here. Project-related" />
+          <p>A brief description of what I worked on, and what it does</p>
+          <div>
+            <p>Deployment</p>
+            <p>GitHub</p>
+          </div>
         </section>
       </main>
     </>
